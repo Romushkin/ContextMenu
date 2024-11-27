@@ -83,7 +83,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             }
 
             else -> {
-                assessmentEt.setText("Нажмите на кнопку генерации")
                 isButtonClick = false
             }
         }

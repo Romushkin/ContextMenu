@@ -3,5 +3,5 @@
     <string name="assessment">Введите оценку</string>
     <string name="title_change_color">Цветовое качество</string>
     <string name="menu_exit">Выход из приложения</string>
-    <string name="text_title_random">Введите случаное число</string>
+    <string name="text_title_random">Случайное число</string>
 </resources>
